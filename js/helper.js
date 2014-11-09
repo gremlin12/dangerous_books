@@ -3,7 +3,7 @@ var HTMLbookCover = "<img src='%data' class='book-cover'>"
 var HTMLbookTitle = "<h3>%data%</h3>"
 var HTMLdescription = "<div class='description'><p>%data%</p>"
 var HTMLremarks = "<p>%data%</p>"
-var HTMLreasons = "<p>Banned for %data%. "
+var HTMLreasons = "<p><strong>Banned for %data%.</strong>    "
 var HTMLcatalog = "<a class='confirm' href ='%data%'>Read dangerously!</a></p></div>"
 
 $(function() {
