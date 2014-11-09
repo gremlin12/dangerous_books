@@ -103,7 +103,7 @@ var locations = [
 	],
 	["North Carolina",
 	35.5,-80,
-	"North Carolina<br><strong>The House of the Spirits</strong>, by Isabelle Allende <br>Challenged in a 10th Grade Honors Class because of sexuality. The School Board voted to <a href='http://www.hcpress.com/news/watauga-county-board-of-education-votes-3-2-to-keep-the-house-of-the-spirits-in-the-whs-curriculum-thursday.html'>retain</a> the book in the curriculum. (Source: <a href='http://www.ncte.org/library/NCTEFiles/Involved/Action/censorship/CensorshipReportQuarter3FY2014.pdf'>NCTE</a>)<br><br><strong>The Absolutely True Diary of a Part-Time Indian </strong> by Sherman Alexie<br>Challenged because of content that might offend religious beliefs. (Source: <a href='http://www.ncte.org/library/NCTEFiles/Involved/Action/censorship/CensorshipReportQuarter4FY2014.pdf'>NCTE</a>)<br><br><strong>Almost, Maine</strong> by John Cariani<br> A high school production of the popular play was cancelled because of the presence of a sex-sex couple in the storyline. (Source: <a href='http://ncac.org/blog/student-production-of-almost-maine-cancelled-because-of-same-sex-storyline/'> NCAC</a>)"
+	"North Carolina<br><strong>The House of the Spirits</strong>, by Isabelle Allende <br>Challenged in a 10th Grade Honors Class because of sexuality. The School Board voted to <a href='http://www.hcpress.com/news/watauga-county-board-of-education-votes-3-2-to-keep-the-house-of-the-spirits-in-the-whs-curriculum-thursday.html'>retain</a> the book in the curriculum. (Source: <a href='http://www.ncte.org/library/NCTEFiles/Involved/Action/censorship/CensorshipReportQuarter3FY2014.pdf'>NCTE</a>)<br><br><strong>The Absolutely True Diary of a Part-Time Indian </strong> by Sherman Alexie<br>Challenged because of content that might offend religious beliefs. (Source: <a href='http://www.ncte.org/library/NCTEFiles/Involved/Action/censorship/CensorshipReportQuarter4FY2014.pdf'>NCTE</a>)<br><br><strong>Almost, Maine</strong> by John Cariani<br> A high school production of the popular play was cancelled because of the presence of a same-sex couple in the storyline. (Source: <a href='http://ncac.org/blog/student-production-of-almost-maine-cancelled-because-of-same-sex-storyline/'> NCAC</a>)<br><br><strong>The Bluest Eye</strong> by Toni Morrison<br>Banned from the East Wake High School curriculum because of 'adult content and themes.' (Source: <a href='http://www.newsobserver.com/2014/08/31/4112752_east-wake-high-school-removes.html?rh=1'> News Observer</a>)<br><br><strong>The Color Purple</strong> by Alice Walker<br> Challenged in East Wake's 11th grade AP English curriculum because of scenes depicting sexual assault and violence. (Source: <a href='http://cbldf.org/2014/04/the-color-purple-and-the-bluest-eye-challenged-in-north-carolina-ap-class/'> CBLDF</a>)"
 	],
 	["Louisiana",
 	31,-92,
@@ -118,7 +118,7 @@ var locations = [
 	],
 	["Ohio",
 	40.5,-82.5,
-	"Ohio<br><strong>Song of Solomon</strong> by Toni Morrison<br>The novel's inclusion in a 9th/10th grade curriculum was challenged because of profanity. (Source: <a href='http://www.ncte.org/library/NCTEFiles/Involved/Action/censorship/CensorshipReportQuarter3FY2014.pdf'> NCTE</a>)<br><br><strong>Extremely Loud and Incredibly Close</strong> by Jonathan Safran <br> Challenged in 10th grade curriculum because of sexual content. (Source: <a href='http://www.ncte.org/library/NCTEFiles/Involved/Action/censorship/CensorshipReportQuarter4FY2014.pdf'> NCTE</a>)<br><br><strong>The Ventriloquist</strong> (Student Newspaper)<br>Cedarville University confiscated and stopped distribution of the student newspaper 'The Ventriloquist' because of two articles critical of the university's stance toward gay students. (Source: <a href='http://ncac.org/blog/baptist-college-seizes-student-newspaper-mutes-lgbt-community/'> NCAC</a>)"
+	"Ohio<br><strong>Song of Solomon</strong> by Toni Morrison<br>The novel's inclusion in a 9th/10th grade curriculum was challenged because of profanity. (Source: <a href='http://www.ncte.org/library/NCTEFiles/Involved/Action/censorship/CensorshipReportQuarter3FY2014.pdf'> NCTE</a>)<br><br><strong>Extremely Loud and Incredibly Close</strong> by Jonathan Safran <br> Challenged in 10th grade curriculum because of sexual content. (Source: <a href='http://www.ncte.org/library/NCTEFiles/Involved/Action/censorship/CensorshipReportQuarter4FY2014.pdf'> NCTE</a>)<br><br><strong>The Ventriloquist</strong> (Student Newspaper)<br>Cedarville University confiscated and stopped distribution of the student newspaper 'The Ventriloquist' because of two articles critical of the university's stance toward gay students. (Source: <a href='http://ncac.org/blog/baptist-college-seizes-student-newspaper-mutes-lgbt-community/'> NCAC</a>)<br><br><strong>The Freedom Writers Diary</strong><br> The collaborative memoir was suspended from a high school curriculum after a parent asked that the book be banned for all students. (Source: <a href='http://cbldf.org/2014/10/ohio-school-district-considers-challenge-to-freedom-writers-diary/'> CBLDF</a>)"
 	],
 	["Virginia",
 	37.5,-79,
@@ -134,7 +134,7 @@ var locations = [
 	],
 	["Minnesota",
 	46,-94,
-	"<div class='scrollFix'>Minnesota<br><strong>The Lesson</strong> by Toni Cade Bambara<br> Challenged in 8th and 9th grades for obscenity, sexual content, and the phrase 'white folks crazy.' (Source: <a href='http://www.ncte.org/library/NCTEFiles/Involved/Action/censorship/CensorshipReportQuarter4FY2014.pdf'> NCTE</a>)</div>"
+	"<Minnesota<br><strong>The Lesson</strong> by Toni Cade Bambara<br> Challenged in 8th and 9th grades for obscenity, sexual content, and the phrase 'white folks crazy.' (Source: <a href='http://www.ncte.org/library/NCTEFiles/Involved/Action/censorship/CensorshipReportQuarter4FY2014.pdf'> NCTE</a>)<br><br><strong>The Painted Drum</strong> by Louise Erdrich<br> Challenged, but retained, in a high school English curriculum after a parent complained about a sex scene in the novel. (Source: <a href='http://cbldf.org/2014/09/painted-drum-challenge-denied-in-minnesota/'> CBLDF</a>)"
 	],
 	["Florida",
 	28.1,-81.6,
@@ -146,7 +146,7 @@ var locations = [
 	],
 	["Texas",
 	31,-100,
-	"Texas<br><strong>The Absolutely True Diary of a Part-Time Indian</strong> by Sherman Alexie <br> <strong>An Abundance of Katherines</strong> by John Green<br><strong>The Art of Racing in the Rain</strong> by Garth Stein<br><strong>The Class Castle</strong> by Jeanette Walls<br><strong>Song of Solomon</strong> by Toni Morrison<br><strong>Siddhartha</strong> by Herman Hesse<br><strong>The Working Poor: Invisible in America</strong> by David K. Shipler<br><strong>Nineteen Minutes</strong> by Jodi Picoult<br>Parents asked that the books be removed from a high school reading list because of 'sex, profanity, and rape.' (Source: <a href='http://www.ncte.org/library/NCTEFiles/Involved/Action/censorship/CensorshipReportQuarter1FY2015.pdf'> NCTE</a>)"
+	"Texas<br><strong>The Absolutely True Diary of a Part-Time Indian</strong> by Sherman Alexie <br> <strong>An Abundance of Katherines</strong> by John Green<br><strong>The Art of Racing in the Rain</strong> by Garth Stein<br><strong>The Class Castle</strong> by Jeanette Walls<br><strong>Song of Solomon</strong> by Toni Morrison<br><strong>Siddhartha</strong> by Herman Hesse<br><strong>The Working Poor: Invisible in America</strong> by David K. Shipler<br><strong>Nineteen Minutes</strong> by Jodi Picoult<br>Parents asked that the books be removed from a high school reading list because of 'sex, profanity, and rape.' (Source: <a href='http://www.ncte.org/library/NCTEFiles/Involved/Action/censorship/CensorshipReportQuarter1FY2015.pdf'> NCTE</a>, <a href='http://cbldf.org/2014/09/parents-fight-back-as-texas-high-school-suspends-seven-books/'> CBLDF</a>)<br><br><strong>Vampire Knight</strong> by Matsuri Hino<br><strong>The Twilight Series</strong> by Stephanie Meyer<br> Challenged at a public library in Cleveland, Texas, becuase the books 'perpetuate a theme of vampires in relationships with young teens.' (Source: <a href='http://www.yourhoustonnews.com/cleveland/news/church-leader-pushing-petition-to-ban-certain-books-at-austin/article_b88981fa-aad3-5011-be18-0f8982188a9c.html'> Cleveland Advocate</a>)"
 		],
 		["Wisconsin",
 		44.5,-89.5,
@@ -154,15 +154,21 @@ var locations = [
 		],
 		["Delaware",
 		39,-75.5,
-		"Delaware<br><strong>The Miseducation of Cameron Post</strong> by Emily Danforth<br> Removed from the summer reading list by the School Board because of profanity. (Source: <a href='http://www.ncte.org/library/NCTEFiles/Involved/Action/censorship/CensorshipReportQuarter1FY2015.pdf'> NCTE</a>)"
+		"Delaware<br><strong>The Miseducation of Cameron Post</strong> by Emily Danforth<br> Removed from the summer reading list by the School Board because of profanity. (Source: <a href='http://www.ncte.org/library/NCTEFiles/Involved/Action/censorship/CensorshipReportQuarter1FY2015.pdf'> NCTE</a>, <a href='http://cbldf.org/2014/07/cape-henlopen-board-eliminates-entire-reading-list-in-dispute-over-cameron-post/'> CBLDF</a>)"
 		],
 		["California",
 		37,-120,
-		"California<br><strong>The Fault in Our Stars</strong> by John Green<br> The novel was removed from middle school libraries in Riverside because its two terminally ill teen characters use crude language and have sex. (Source: <a href='http://ncac.org/blog/riverside-schools-want-kids-to-think-theyre-immortal/'> NCAC</a>)"
+		"California<br><strong>The Fault in Our Stars</strong> by John Green<br> The novel was removed from middle school libraries in Riverside because its two terminally ill teen characters use crude language and have sex. (Source: <a href='http://ncac.org/blog/riverside-schools-want-kids-to-think-theyre-immortal/'> NCAC</a>)<br><br><strong>Black Swan Green </strong> by David Mitchell<br>Parents demanded the removal of the book from the high school curriculum because it was 'inappropriate, amoral and disgusting' and contained 'the most graphic scenes of lust and fornication.' <i>Black Swan Green</i> was removed from the high school library and witheld from classrooms. (Source: <a href='http://cbldf.org/2014/11/cbldf-joins-letter-challenging-kings-canyons-removal-first-review-second-policy/'> CBLDF</a>)"
+		],
+		["Michigan",
+		44,-85,
+		"Michigan<br><strong>A Stolen Life: A Memoir</strong>  by Jaycee Dugard<br> Removed from seventh-grade classroom libraries in Northview because the memoir contained 'violent and sexual material.' (Source: <a href='http://www.mlive.com/news/grand-rapids/index.ssf/2014/10/northview_teachers_graphic_jay.html'> MLIVE</a>)"
+		],
+		["Colorado",
+		39,-105,
+		"Colorado<br><strong>Ender's Game</strong> by Orson Scott Card<br>Challenged, but retained, in the sixth grade curriculum after a parent complained of profanity and 'passages about characters renouncing religion and killing each other.' (Source: <a href='http://cbldf.org/2014/10/enders-game-retained-in-mesa-county-curriculum/'> CBLDF</a>)"
 		]
 
-
-	
 
 ];
 
